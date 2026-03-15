@@ -41,6 +41,7 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 
+![Output](cd3.png)
 
 Tabulation:1
 
@@ -48,6 +49,7 @@ Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
 
+![Output](cd33.png)
 
 
 Tabulation:2
