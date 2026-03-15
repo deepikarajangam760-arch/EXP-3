@@ -40,11 +40,19 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+
+
 Tabulation:1
+
+![Output](ex3be.png)
 	
 Cross connection: CIRCUIT DIAGRAM:
 
+
+
 Tabulation:2
+
+![Output](ex3bee.png)
 
 RESULT:
 Thus the staircase wiring is connected and tested.
